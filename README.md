@@ -18,11 +18,11 @@ To run this project, you need a web browser and an internet connection to load t
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/MArbeeGit/Tic_Tac_Toe.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd tic-tac-toe
+    cd Tic_Tac_Toe
     ```
 3. Open the `index.html` file in your web browser.
 
@@ -41,7 +41,3 @@ To run this project, you need a web browser and an internet connection to load t
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
